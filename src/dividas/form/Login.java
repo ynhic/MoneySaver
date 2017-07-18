@@ -5,14 +5,6 @@
  */
 package dividas.form;
 
-
-import java.net.MalformedURLException;
-import java.rmi.Naming;
-import java.rmi.NotBoundException;
-import java.rmi.RemoteException;
-import java.rmi.registry.LocateRegistry;
-import javax.swing.JOptionPane;
-
 /**
  *
  * @author Ynhic <ynhic@hotmail.com>
